@@ -497,6 +497,7 @@ body.modal-open {
     }
     .profile{
     	margin-top: 110px;
+	    border-radius: 12px;
     }
 /*    .info h1{
     	margin-left:-370px;
